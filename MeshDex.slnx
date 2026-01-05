@@ -1,1 +1,6 @@
-﻿<Solution />
+﻿<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MeshDex.API/MeshDex.API.csproj" />
+    <Project Path="src/MeshDex.Client/MeshDex.Client.csproj" />
+  </Folder>
+</Solution>
