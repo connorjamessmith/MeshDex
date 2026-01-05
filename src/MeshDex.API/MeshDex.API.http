@@ -1,0 +1,6 @@
+@MeshDex.API_HostAddress = http://localhost:5059
+
+GET {{MeshDex.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
